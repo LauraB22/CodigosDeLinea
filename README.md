@@ -1,3 +1,3 @@
 # CodigosDeLinea
 
-Simulacion en matlab de los codigos de linea 
+Simulacion en Matlab de los codigos de linea 
